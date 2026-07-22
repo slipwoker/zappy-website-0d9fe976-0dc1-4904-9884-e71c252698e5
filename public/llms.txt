@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://liat-flowers.zappy5.app
 מחפשים משלוח פרחים אונליין שיהפוך כל רגע למיוחד? ב-liat flowers תמצאו זרי פרחים מרהיבים ומעוצבים עד הבית, עם רכישה קלה ומשלוח מהיר. התחילו עכשיו!
 
 ### אירועים
-https://example.com/occasions
+https://liat-flowers.zappy5.app/occasions
 חוגגים יום הולדת, יומולדת או סתם רוצים לפנק? גלו את קולקציית פרחים לאירועים מיוחדים ב-liat flowers, עם עיצובים ייחודיים שמותאמים בדיוק לרגע שלכם. הזמינו עכשיו!
 
 ### אטלייה
-https://example.com/atelier
+https://liat-flowers.zappy5.app/atelier
 היכנסו לאטלייה של liat flowers וגלו איך אנחנו יוצרים זרי פרחים מרהיבים בעבודת יד. משלוח פרחים אונליין מעולם לא היה כל כך אמנותי ואישי. בואו לראות!
 
 ### שאלות נפוצות
-https://example.com/faq
+https://liat-flowers.zappy5.app/faq
 יש לכם שאלות על משלוח פרחים אונליין? בעמוד השאלות הנפוצות של liat flowers תקבלו תשובות מהירות על הזמנות, משלוחים וטיפול בזרים. היכנסו ותהנו משירות שקוף!
 
 ### צור קשר
-https://example.com/contact
+https://liat-flowers.zappy5.app/contact
 רוצים להזמין זר פרחים רומנטי לאהובה או לתאם משלוח מיוחד? צרו קשר עם liat flowers ונשמח לעזור לכם לבחור את הפרחים המושלמים. אנחנו מחכים לכם!
 
 ### Products
-https://example.com/products
+https://liat-flowers.zappy5.app/products
 המוצרים שלנו - liat flowers
 
 ### Cart
-https://example.com/cart
+https://liat-flowers.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://liat-flowers.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://liat-flowers.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://liat-flowers.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://liat-flowers.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://liat-flowers.zappy5.app/product/:slug
 פרטי המוצר - liat flowers
 
 ### Category
-https://example.com/category/:slug
+https://liat-flowers.zappy5.app/category/:slug
 מוצרים - liat flowers
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://liat-flowers.zappy5.app/thank-you
 liat flowers - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://liat-flowers.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://liat-flowers.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://liat-flowers.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce / Flowers & Gifts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://liat-flowers.zappy5.app/sitemap.xml
+- Robots: https://liat-flowers.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://liat-flowers.zappy5.app/llms-full.txt
+- Products (JSON): https://liat-flowers.zappy5.app/products.json
+- Products (Google Merchant RSS): https://liat-flowers.zappy5.app/product-feed.xml
