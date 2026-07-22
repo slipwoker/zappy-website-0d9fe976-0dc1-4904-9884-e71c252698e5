@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://liat-flowers-0d9fe976.zappy5.app
+https://example.com
 מחפשים משלוח פרחים אונליין שיהפוך כל רגע למיוחד? ב-liat flowers תמצאו זרי פרחים מרהיבים ומעוצבים עד הבית, עם רכישה קלה ומשלוח מהיר. התחילו עכשיו!
 
 ### אירועים
-https://liat-flowers-0d9fe976.zappy5.app/occasions
+https://example.com/occasions
 חוגגים יום הולדת, יומולדת או סתם רוצים לפנק? גלו את קולקציית פרחים לאירועים מיוחדים ב-liat flowers, עם עיצובים ייחודיים שמותאמים בדיוק לרגע שלכם. הזמינו עכשיו!
 
 ### אטלייה
-https://liat-flowers-0d9fe976.zappy5.app/atelier
+https://example.com/atelier
 היכנסו לאטלייה של liat flowers וגלו איך אנחנו יוצרים זרי פרחים מרהיבים בעבודת יד. משלוח פרחים אונליין מעולם לא היה כל כך אמנותי ואישי. בואו לראות!
 
 ### שאלות נפוצות
-https://liat-flowers-0d9fe976.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על משלוח פרחים אונליין? בעמוד השאלות הנפוצות של liat flowers תקבלו תשובות מהירות על הזמנות, משלוחים וטיפול בזרים. היכנסו ותהנו משירות שקוף!
 
 ### צור קשר
-https://liat-flowers-0d9fe976.zappy5.app/contact
+https://example.com/contact
 רוצים להזמין זר פרחים רומנטי לאהובה או לתאם משלוח מיוחד? צרו קשר עם liat flowers ונשמח לעזור לכם לבחור את הפרחים המושלמים. אנחנו מחכים לכם!
 
 ### Products
-https://liat-flowers-0d9fe976.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - liat flowers
 
 ### Cart
-https://liat-flowers-0d9fe976.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://liat-flowers-0d9fe976.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://liat-flowers-0d9fe976.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://liat-flowers-0d9fe976.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://liat-flowers-0d9fe976.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://liat-flowers-0d9fe976.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - liat flowers
 
 ### Category
-https://liat-flowers-0d9fe976.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - liat flowers
 
 ### תודה שפניתם אלינו
-https://liat-flowers-0d9fe976.zappy5.app/thank-you
+https://example.com/thank-you
 liat flowers - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://liat-flowers-0d9fe976.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://liat-flowers-0d9fe976.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://liat-flowers-0d9fe976.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce / Flowers & Gifts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://liat-flowers-0d9fe976.zappy5.app/sitemap.xml
-- Robots: https://liat-flowers-0d9fe976.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://liat-flowers-0d9fe976.zappy5.app/llms-full.txt
-- Products (JSON): https://liat-flowers-0d9fe976.zappy5.app/products.json
-- Products (Google Merchant RSS): https://liat-flowers-0d9fe976.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
